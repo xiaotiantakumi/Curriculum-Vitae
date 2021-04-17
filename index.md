@@ -1,3 +1,7 @@
+---
+layout: default
+title: トップページ
+---
 # 基本情報
 
 |key|value|
