@@ -5,7 +5,7 @@
 |Belongs|PE-BANK|
 |Name|小田 匠|
 |Age|34||
-|Master's degree|一橋大学　経営学修士コース　卒業|
+|Master's degree|一橋大学　経営学修士(MBA)コース　卒業|
 |Bachelor Degree|南開大学　財務管理コース　卒業(中国天津にある大学)|
 |Family|既婚・子供3人|
 |Location|兵庫県 神戸市|
